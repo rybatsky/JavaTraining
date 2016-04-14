@@ -1,0 +1,17 @@
+else - 2
+catch - 3
+if - 9
+new - 9
+package - 1
+void - 5
+byte - 1
+final - 4
+try - 3
+private - 5
+import - 3
+for - 3
+public - 6
+class - 1
+break - 2
+int - 6
+char - 2

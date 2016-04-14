@@ -1,0 +1,18 @@
+1 deposit: 10.0
+1 transfer: 10 to 1
+0 withdraw: 5.0
+1 deposit: 10.0
+1 transfer: 10.0 to 1
+0 withdraw: 5.0
+1 deposit: 10.0
+0 transfer: 10.0 to 1
+1 withdraw: 5.0
+0 deposit: 10.0
+1 transfer: 10.0 to 0
+0 withdraw: 5.0
+1 deposit: 10.0
+0 transfer: 10.0 to 0
+1 withdraw: 5.0
+0 deposit: 10.0
+1 transfer: 10.0 to 1
+0 withdraw: 5

@@ -1,0 +1,14 @@
+while - 3
+catch - 3
+if - 4
+new - 9
+package - 1
+void - 5
+try - 3
+private - 3
+import - 5
+for - 3
+public - 4
+class - 1
+break - 2
+int - 5
