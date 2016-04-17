@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema xmlns="http://www.w3.org/2001/XMLSchema"
+        targetNamespace="http://www.epam.com/javase13"
+        xmlns:x="http://www.epam.com/javase13">
+
+    <complexType name="Book">
+        <sequence>
+            <element name="title" type="string"/>
+            <element name="author" type="string"/>
+            <element name="price" type="int"/>
+            <element name="description" type="string"/>
+        </sequence>
+        <attribute name="id" type="int"/>
+    </complexType>
+
+    <element name="library">
+        <complexType>
+            <sequence>
+                <element name="book" type="x:Book"
+                         minOccurs="1"
+                         maxOccurs="unbounded"/>
+            </sequence>
+        </complexType>
+    </element>
+</schema>

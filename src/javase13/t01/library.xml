@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<lb:library xmlns:lb="http://www.epam.com/javase13"
+            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+            xsi:schemaLocation="http://www.epam.com/javase13 library.xsd">
+    <book id="1">
+        <title>Ulysses</title>
+        <author>James Joyce</author>
+        <price>990</price>
+        <description>Ulysses chronicles the peripatetic appointments and encounters of Leopold Bloom in Dublin in the
+            course of an ordinary day, 16 June 1904.</description>
+    </book>
+    <book id="2">
+        <title>Maidenhair</title>
+        <author>Mikhail Pavlovich Shishkin</author>
+        <price>780</price>
+        <description>Maidenhair is composed of three main storylines: an interpreter listening to the stories of
+            refugees, the letters he sends to his son, and the diaries of a Russian opera singer in the early 1900s.
+            An instant classic of Russian literature, it was a finalist for the Best Translated Book Award.</description>
+    </book>
+    <book id="3">
+        <title>The Unbearable Lightness of Being</title>
+        <author>Milan Kundera</author>
+        <price>125</price>
+        <description>1984 novel about two women, two men, a dog and their lives in the Prague Spring period of
+            Czechoslovak history in 1968.</description>
+    </book>
+</lb:library>
